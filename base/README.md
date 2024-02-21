@@ -23,3 +23,5 @@ kk kustomize . > /tmp/keyverno-install.yaml
 kk create ns kyverno
 kk create -f /tmp/kyverno-install.yaml
 ```
+
+gagaaga
